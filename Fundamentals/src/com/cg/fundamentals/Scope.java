@@ -1,6 +1,7 @@
 package com.cg.fundamentals;
 
 public class Scope {
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int outer = 1;

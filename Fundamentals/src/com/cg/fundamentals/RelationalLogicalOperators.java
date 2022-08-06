@@ -3,6 +3,7 @@ package com.cg.fundamentals;
 import java.util.Random;
 
 public class RelationalLogicalOperators {
+	
 	public static void main(String[] args) {
 	    Random rand = new Random();
 	    int i = rand.nextInt(100);
